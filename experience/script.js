@@ -73,3 +73,6 @@ function(){
         $("#favicon").attr("href","/assets/images/favhand.png");
     }
 });
+
+/* SCROLL EDUCATION */
+srtop.reveal('.education .box', { interval: 200 });
