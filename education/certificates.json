@@ -2,19 +2,40 @@
   {
     "name": "Google Advanced Data Analytics",
     "image": "google",
-    "category": "android1",
     "links": {
-      "view": "https://www.linkedin.com/posts/jigar-sable_androiddev-androidstudio-java-activity-6955224473822199808-JT0j",
-      "code": "https://github.com/jigar-sable/notystack-android"
+      "view": "https://www.coursera.org/account/accomplishments/specialization/F9ERRLS7QJJZ"
     }
   },
   {
-    "name": "Google Advanced Data Analytics",
+    "name": "Google Data Analytics",
     "image": "google",
     "category": "mern",
     "links": {
-      "view": "https://instagramernstack.herokuapp.com/",
-      "code": "https://github.com/jigar-sable/instagram-mern"
+      "view": "https://www.coursera.org/account/accomplishments/specialization/LZCTW6M8I8KA"
+    }
+  },
+  {
+    "name": "Troubleshooting and Debugging Techniques",
+    "image": "google",
+    "category": "android1",
+    "links": {
+      "view": "https://www.coursera.org/account/accomplishments/verify/3QYCJ5T6BQEI"
+    }
+  },
+  {
+    "name": "Introduction to Neural Networks and PyTorch",
+    "image": "google",
+    "links": {
+      "view": "https://www.coursera.org/account/accomplishments/verify/5K0IK2OR8PMT"
+    }
+  },
+  {
+    "name": "Introduction to Docker: Build Your Own Portfolio Site",
+    "image": "google",
+    "category": "android1",
+    "links": {
+      "view": "https://www.coursera.org/account/accomplishments/verify/7RZLBV37ZJ5S"
     }
   }
+  
 ]

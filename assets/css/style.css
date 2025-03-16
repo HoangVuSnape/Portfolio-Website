@@ -357,11 +357,11 @@ header .navbar ul li a:hover {
 }
 .about .row .image {
   text-align: center;
-  flex: 1 1 35rem;
+  flex: 1 1 60rem;
 }
 .about .row .image img {
   margin: 4rem;
-  width: 30rem;
+  width: 40rem;
   height: auto;
   border-radius: 5%;
   box-shadow: 0 5px 10px rgba(0, 0, 0, 0.6);
@@ -381,13 +381,13 @@ header .navbar ul li a:hover {
   font-size: 2.5rem;
 }
 .about .row .content .tag {
-  font-size: 1.4rem;
+  font-size: 1.8rem;
   color: #020133;
   font-weight: 600;
   margin-top: 1rem;
 }
 .about .row .content p {
-  font-size: 1.5rem;
+  font-size: 1.8rem;
   margin-top: 1.5rem;
   font-family: "Nunito";
   font-weight: 600;
